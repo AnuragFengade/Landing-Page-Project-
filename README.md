@@ -1,4 +1,4 @@
-🚀 TechNova – Responsive Landing Page
+🚀 Technical – Responsive Landing Page
 
 
 📌 Overview
