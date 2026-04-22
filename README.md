@@ -38,7 +38,7 @@ TechNova-Landing-Page/
 │── README.md
 ▶️ Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/technova-landing-page.git
+git clone https: 
 2. Open the Project
 Navigate to the folder
 Open index.html in your browser
@@ -73,11 +73,13 @@ Integrate backend (Node.js / Spring Boot)
 🙌 Acknowledgements
 Inspired by modern SaaS landing pages
 Built for learning and practice purposes
+
 📌 Author
 
 Anurag Fengade
 
 Aspiring Full Stack Developer & Data Analyst
+
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
