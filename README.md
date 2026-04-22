@@ -36,6 +36,7 @@ Tailwind CSS (CDN) – Styling & responsiveness
 📂 Project Structure
 TechNova-Landing-Page/
 │── index.html
+
 │── README.md
 
 ▶️ Getting Started
