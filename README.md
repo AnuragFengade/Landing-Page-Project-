@@ -38,7 +38,7 @@ TechNova-Landing-Page/
 │── README.md
 ▶️ Getting Started
 1. Clone the Repository
-git clone https: 
+git clone https: https://github.com/AnuragFengade/Landing-Page-Project-/blob/main/LandingPage.html
 2. Open the Project
 Navigate to the folder
 Open index.html in your browser
@@ -57,19 +57,21 @@ CTA section
 📐 Responsiveness
 
 This project uses:
-
 Tailwind’s utility classes
 Flexbox & Grid layouts
 Mobile-first design approach
+
 ⚠️ Limitations
 Static website (no backend)
 No form handling
 No dynamic data
+
 🚀 Future Enhancements
 Add JavaScript for interactivity
 Implement dark mode 🌙
 Add authentication (login/signup)
 Integrate backend (Node.js / Spring Boot)
+
 🙌 Acknowledgements
 Inspired by modern SaaS landing pages
 Built for learning and practice purposes
