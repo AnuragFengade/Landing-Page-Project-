@@ -1,5 +1,6 @@
 🚀 TechNova – Responsive Landing Page
 
+
 📌 Overview
 
 TechNova is a modern, fully responsive landing page built using HTML5 and Tailwind CSS. It represents a fictional AI-powered product designed to help developers and businesses automate workflows and scale efficiently.
@@ -75,6 +76,7 @@ Integrate backend (Node.js / Spring Boot)
 🙌 Acknowledgements
 Inspired by modern SaaS landing pages
 Built for learning and practice purposes
+
 
 📌 Author
 
