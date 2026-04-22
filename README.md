@@ -37,9 +37,11 @@ Tailwind CSS (CDN) – Styling & responsiveness
 TechNova-Landing-Page/
 │── index.html
 │── README.md
+
 ▶️ Getting Started
 1. Clone the Repository
 git clone https: https://github.com/AnuragFengade/Landing-Page-Project-/blob/main/LandingPage.html
+
 2. Open the Project
 Navigate to the folder
 Open index.html in your browser
