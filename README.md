@@ -50,7 +50,6 @@ Open index.html in your browser
 
 ✅ No installation required (Tailwind is loaded via CDN)
 
-📸 Preview
 
 A clean and responsive landing page with:
 
@@ -63,21 +62,30 @@ CTA section
 📐 Responsiveness
 
 This project uses:
+
 Tailwind’s utility classes
+
 Flexbox & Grid layouts
+
 Mobile-first design approach
 
 
 ⚠️ Limitations
+
 Static website (no backend)
+
 No form handling
+
 No dynamic data
 
 
 🚀 Future Enhancements
 Add JavaScript for interactivity
+
 Implement dark mode 🌙
+
 Add authentication (login/signup)
+
 Integrate backend (Node.js / Spring Boot)
 
 
